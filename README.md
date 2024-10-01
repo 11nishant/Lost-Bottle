@@ -71,3 +71,20 @@ https://github.com/aksahil2205/Lost-Bottle/assets/120297640/d4fe60a5-fb7e-4639-8
 - **Home Page:** View the introduction and navigation options.
 - **Write a Message:** Navigate to `/write` to write and save a message.
 - **Read a Message:** Navigate to `/read` to read random messages.
+
+
+
+
+Rough Version To Execute .................................................................................................................................................
+Directory me jaiyo
+terminal kholiya 
+usme command daal "bash" and enter into ubuntu wsl
+fir likh : 
+npm install express
+npm install node
+
+final command : node index.js
+
+fir jo server is running likha aayega uspr ctrl + click krna
+otherwise wo link copy paste krdiyo chrome me
+
